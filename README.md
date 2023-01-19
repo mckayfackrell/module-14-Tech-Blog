@@ -4,6 +4,14 @@ An application called Tech Blog which allows for a user to publish articles, blo
 
 ## Video Walkthrough and Screenshot
 
+| Login | Homepage | Post |
+|---------|---------|---------|
+| ![login:signup](https://user-images.githubusercontent.com/110206514/213334846-0d20329b-10b7-4199-91ff-eea34592a267.jpg) | ![homepage](https://user-images.githubusercontent.com/110206514/213334851-4ed87d72-2e96-4e50-a995-8fc0f368ded9.jpg) | ![post](https://user-images.githubusercontent.com/110206514/213334858-020af94a-ef79-4702-9fc9-f87cb57f2e12.jpg) |
+
+
+
+
+
 
 ## Installation 
 The application is functional and live. It can be found at this URL: [Tech Blog](url)
