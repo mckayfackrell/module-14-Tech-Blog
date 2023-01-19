@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Node.js",
+    "description": "I recently started working on a project using Node.js and it's been such a smooth experience. The ability to use JavaScript on the backend as well as the frontend is a huge plus."
+  },
+  {
+    "name": "MySQL",
+    "description": "I switched to MySQL from another database system and I couldn't be happier. The performance is great and the community support is fantastic."
+  },
+  {
+    "name": "MVC",
+    "description": "I'm new to MVC and it's been a bit of a learning curve, but once I got the hang of it, I can see how powerful it is for structuring my code."
+  }
+]
